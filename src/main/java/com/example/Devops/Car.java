@@ -1,6 +1,7 @@
 package com.example.Devops;
 
 public class Car {
+
     String plateNumber;
     String brand;
     int price;
