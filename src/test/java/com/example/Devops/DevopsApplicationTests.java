@@ -10,7 +10,7 @@ class DevopsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Car car = new Car("AA11BB", "Ferrari",9955);
+		Car car = new Car("AA11BB", "Ferrari",99355);
 		String plateNumber = car.getPlateNumber();
 		assertEquals("AA11BB", plateNumber);
 	}
